@@ -1,1 +1,1 @@
-Testing purposes. Kindly hit the link: https://responsive-web-design-test.vercel.app/ to see live demo
+Assessment purposes. Kindly hit the link: https://responsive-web-design-test.vercel.app/ to see live demo
